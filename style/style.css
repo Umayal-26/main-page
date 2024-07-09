@@ -1,0 +1,17 @@
+
+section{
+    text-align: center;
+}
+p{
+    display: inline;
+    font-size: xx-large;
+}
+name{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+body{
+    background-color: pink;
+}
